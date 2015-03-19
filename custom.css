@@ -1,0 +1,17 @@
+.jumbotron {
+  position: relative;
+  top: 50%;
+  transform: translateY(30%);
+}
+
+footer,hr {
+  position: relative;
+}
+
+hr {  
+  margin-top: 20%;
+}
+
+footer {  
+  margin-top: 2%;
+}
