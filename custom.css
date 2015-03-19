@@ -1,17 +1,23 @@
 .jumbotron {
   position: relative;
   top: 50%;
-  transform: translateY(30%);
+  transform: translateY(10%);
 }
 
 footer,hr {
   position: relative;
 }
 
-hr {  
+hr {
   margin-top: 20%;
 }
 
+
 footer {  
   margin-top: 2%;
+}
+
+#palabraInventada {
+  text-align: center;
+  margin: 2em;
 }
