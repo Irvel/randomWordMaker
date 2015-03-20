@@ -85,7 +85,7 @@ function hacerSilabas(palabra) {
       }
     }
     else{
-      silabActual = palabra[i];
+      silabActual = palabra[i]; --1
     }
     listaSilab.push(silabActual);
     silabActual = "";
